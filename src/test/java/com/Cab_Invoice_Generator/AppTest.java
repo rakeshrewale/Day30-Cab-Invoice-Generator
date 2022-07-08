@@ -1,4 +1,4 @@
-package Day30_Cab_Invoice_Generator.Day30_Cab_Invoice_Generator;
+package com.Cab_Invoice_Generator;
 
 import static org.junit.Assert.assertTrue;
 
